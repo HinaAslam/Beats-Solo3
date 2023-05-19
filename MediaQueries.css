@@ -1,0 +1,155 @@
+@media(max-width: 1200px) and (min-width: 992px) {
+    /*.header-logo-container{background-color: yellow}*/
+     .header-list{margin-right: 0px;}
+    .header-list-item{padding: 9px 24px;}
+    .Section_1{height: 640px;}
+    .Section_1Text{width: 387px; margin-right: 120px; margin-top: 267px;}
+    .Section_3FlexBoxDiv1{width: 50%;}
+    .Section_4FlexboxDiv1{width: 60%;}
+    .Section_4ReadMoreButton{margin-top: 10px;}
+    .Section_5Flexbox{width: 80%;}
+    .Section_6Inner{width: 90%;}
+    .Section_7OuterFlexBox{width: 90%;}
+    .Section_8List{font-size: 15px;}
+    .Section_8FlexBoxDiv3{width: 30%;}
+
+}
+
+@media(max-width: 991px) and (min-width: 768px){
+    .header{padding:5px 20px 22px;}
+    .header-inner{justify-content: space-between;}
+    .header-logo-container{width: 17%;}
+    .header-content{width: 85%;}
+    .header-list-container{text-align: center;}
+    .header-list{margin-right: 0px; margin-left: 0px;}
+    .header-list-item{padding: 12px 15px 13px 15px}
+    
+    .Section_1{height: 716px;}
+    .Section_1Text{width: 400px; margin-right: 80px; margin-top:  330px;}
+    .Section_2Inner{width: 95%;}
+    .Section_2Heading{font-size: 32px;}
+    .Section_2Paragraph{font-size: 12px;}
+    .Section_2Inner{width: 95%;}
+    .Section_3FlexBoxDiv1{padding: 0px;}
+    .Section_3FlexBoxDiv1{width: 43%;}
+    .Section_3FlexBoxDiv2{width: 50%;}
+    .Section_4 {height: 377px;}
+    .Section_4FlexboxDiv1{width: 55%; height: 356px;}
+    .Section_4FlexboxDiv2{width: 36%; margin:0px;}
+    .Section_4Heading{font-size: 30px;}
+    .Section_4Overview{font-size: 15px;}
+    .Section_4Paragraph{font-size: 12px; line-height: 22px;}
+    .Section_4ReadMoreButton{font-size: 14px; width: 121px; padding: 6px; margin-top: 15px;}
+    .Section_5Flexbox{ width: 100%; }
+    .Section_5FlexboxDiv{margin: 0px;}
+    .Section_6{height: 400px;}
+    .Section_8 {height: 530px;}
+    .Section_8Inner{height: 528px; width: 100%;}
+}
+@media(max-width: 767px) and (min-width: 576px) {
+     .header{padding:5px 0px 22px;}
+    .header-inner{justify-content: space-between;}
+    .header-logo-container{width: 25%;}
+    .header-content{width: 85%;}
+    .header-list-container{text-align: center;}
+    .header-list{margin-right: 0px; margin-left: 0px;}
+    .header-list-item{padding: 8px 5px 12px 4px}
+    .Section_1{height: 570px;}
+    .Section_1ImageDimentions {height: 100%;}
+    .Section_1Text{margin-top:  249px; margin-right: 58px; width: 352px; }
+    .Section_1TextHeading{font-size: 57px; line-height: 57px;}
+    .Section_1TextHeadingWireless{font-size: 54px;}
+    .Section_2Inner{width: 100%;}
+    .Section_2FlexBoxDiv1{ width: 47%; margin: 10px; }
+    .Section_2FlexBoxDiv2 {width: 44%; height: 36%;}
+    .Section_3{height: 695px;}
+    .Section_3Inner{width: 95%; height: 685px;}
+    .Section_3FlexBoxDiv1{padding: 0px; width: 100%;}
+    .Section_3FlexBoxDiv2{width: 100%;}
+    .Section_4{height: 600px;} 
+    .Section_4Inner{width: 100%; height: 580px;}
+    .Section_4FlexboxDiv1{width: 39%; height: 578px;}
+    .Section_4FlexBoxImageDimentions{object-position: 53% 12px;}
+    .Section_4FlexboxDiv2{width: 54%; margin: 6px; margin-top: 30px; height: 550px;}
+    .Section_4Heading{font-size: 43px;} 
+    .Section_4Overview{font-size: 25px;} 
+    .Section_4Paragraph{font-size: 19px; line-height: 29px;}
+    .Section_5{height: 1090px;}
+    .Secton_5InnerText{height: 116px;}
+    .Section_6{height: 830px;}
+    .Section_6Inner{width: 100%; height: 810px;}
+    .Section_6Div1{width: 100%;}
+    .Section_6Div2{width: 100%; margin-left: 100px;}
+    .Section_6ImageDimensions { width: 100%; height: 100%; object-fit: contain;}
+    .Section_4ReadMoreButton{font-size: 14px; width: 120px;}
+    .Section_7OuterFlexBox{width: 100%;}
+    .Section_8{height: 932px;}
+    .Section_8Inner{width: 95%; height: 930px;}
+    .Section_8FlexBoxDiv1{width: 80%; height: 387px;}
+    .Section_8FlexBoxDiv2{width: 50%; height: 475px;}
+    .Section_8Heading{font-size: 36px;}
+    .Section_8MenfacturingInfo{font-size: 17px;}
+    .Section_8FlexBoxDiv3{width: 50%; height: 475px; margin-top: 29px;}
+    
+
+}
+@media(max-width: 575px) and (min-width: 350px) {
+    .header{padding:5px 10px 10px;}
+    .header-inner{justify-content: space-between;}
+    .header-logo-container{width: 20%;}
+    .header-content{width: 95%;}
+    .header-list-container{text-align: center;}
+    .header-list{margin-right: 0px; margin-left: 0px;}
+    .header-list-item{padding: 8px 3px 12px 2px; font-size: 10px;}
+    .Section_1{height: 560px;}
+    .Section_1ImageDimentions{height: 530px; object-fit: cover;}
+   /* .header-logo-container{width: 37%; height: 20%; top: 38px; left: 3px;}*/
+    .Section_1Text{margin-right: 30px;  width: 179px; margin-top: 205px;}
+    .Section_1TextHeading{font-size: 62px; line-height: 70px;}
+    .Section_1TextHeadingWireless{font-size: 50px;}
+    .Section_1TextParagraph{font-size: 10px;}
+    .BuyButton{font-size: 14px; width: 115px;}
+    .Section_2 {height: 820px;}
+    .Section_2Inner{width: 80%; height: 845px;}
+    .Section_2FlexBoxDiv1{width: 100%;}
+    .Section_2Image{margin-top: 0px;}
+    .Section_2FlexBoxDiv2{width: 100%; height: 300px;}
+    .Section_3{height: 860px;}  
+    .Section_3Inner{margin:10px; height: 825px;}
+    .Section_3FlexBoxDiv1{width: 100%; padding: 5px;}
+    .Section_2Heading{font-size: 43px;}
+    .Section_3ReadMoreButton{font-size: 14px; width: 115px;}
+    .Section_3FlexBoxDiv2{height: 392px; width: 100%;}
+    .Section_3ImageDimentions{object-position: 84% 0;}
+    .Section_4{height: 600px;} 
+    .Section_4Inner{width: 100%; height: 580px;}
+    .Section_4FlexboxDiv1{width: 39%; height: 578px;}
+    .Section_4FlexBoxImageDimentions{object-position: 53% 12px;}
+    .Section_4FlexboxDiv2{width: 54%; margin: 6px; margin-top: 30px; height: 550px;}
+    .Section_4Heading{font-size: 40px;} 
+    .Section_4Overview{font-size: 22px;} 
+    .Section_4Paragraph{font-size: 13px;}
+    .Section_5{height: 1150px;}
+    .Secton_5InnerText{height: 168px;}
+    .Section_5Heading{font-weight: 700px;}
+    .Section_6{height: 830px;}
+    .Section_6Inner{width: 100%; height: 810px;}
+    .Section_6Div1{width: 100%;}
+    .Section_6Div2{width: 100%; margin: 10px}
+    .Section_6ImageDimensions { width: 100%; height: 350px; object-fit: cover;}
+    .Section_4ReadMoreButton{font-size: 14px; width: 120px;}
+    .Section_7{height: 912px;}
+    .Section_7OuterFlexBox{width: 100%; height: 912px;}
+    .Section_7OuterFlexBoxDiv1{width: 100%;}
+    .Section_7OuterFlexBoxDiv2{width: 100%; height: 328px;}
+    .Section_7InnerFlexBox{width: 100%; flex-direction: row;}
+    .Section_7InnerFlexBoxDiv1{width: 50%;}
+    .Section_7InnerFlexBoxDiv2{width: 50%;}
+    .Section_8{height: 1180px;}
+    .Section_8Inner{width: 95%; height: 1160px;}
+    .Section_8FlexBoxDiv1{width: 100%; height: 387px;}
+    .Section_8FlexBoxDiv2{width: 100%;}
+    .Section_8FlexBoxDiv3{width: 100%;}
+
+}
+
